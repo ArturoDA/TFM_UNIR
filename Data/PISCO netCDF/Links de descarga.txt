@@ -1,0 +1,9 @@
+DESCARGA DE ARCHIVOS netCDF PISCO
+Para descargar archivo "PISCOv1.1_Tmax_daily_1981_2016.nc":
+http://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/.HSR/.PISCO/.Temp/.v1p1/.tmax/.stable/.daily/.tmax/datafiles.html
+
+Para descargar archivo "PISCOv1.1_Tmin_daily_1981_2016.nc":
+http://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/.HSR/.PISCO/.Temp/.v1p1/.tmin/.stable/.daily/.tmin/datafiles.html
+
+Para descargar archivo "PISCOv2.1_Pp_daily_1981_2016.nc"
+http://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/.HSR/.PISCO/.Prec/.v2p1/.stable/.daily/.Prec/datafiles.html
